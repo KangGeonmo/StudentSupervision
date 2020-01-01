@@ -1,5 +1,5 @@
 ## StudentSupervision
-![학생관리](./DOCS/image/leaflet.PNG)
+![학생관리](./DOCS/image/leaflet.PNG){:.aligncenter}
 
 ### 개발환경
 * Language : C
