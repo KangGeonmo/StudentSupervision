@@ -1,5 +1,5 @@
 ## StudentSupervision
-![학생관리](./DOCS/image/reaflet.PNG)
+![학생관리](./DOCS/image/realet.PNG)
 
 ### 개발환경
 * Language : C
