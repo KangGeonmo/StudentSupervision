@@ -1,5 +1,6 @@
 ## StudentSupervision
-학생 성적 관리 
+###학생 성적 관리 프로그램
+
 ![학생관리](./DOCS/image/leaflet.PNG)
 
 ### 개발환경
