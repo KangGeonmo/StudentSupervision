@@ -1,5 +1,5 @@
 ## StudentSupervision
-[학생관리](./DOCS/image/reaflet.PNG)
+![학생관리](./DOCS/image/reaflet.PNG)
 
 ### 개발환경
 * Language : C
@@ -8,9 +8,9 @@
 
 ### 실행화면
 * 검색
-[검색](./DOCS/image/search.PNG)
+![검색](./DOCS/image/search.jpg)
 * 출력
-[출력](./DOCS/image/output.PNG)
+![출력](./DOCS/image/output.jpg)
 
 #### 참고
 * 2012년 교내 학술제 제출
